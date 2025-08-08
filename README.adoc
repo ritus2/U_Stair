@@ -15,12 +15,3 @@ image::screenshots/subjects.png[]
 image::screenshots/mesh.png[]
 
 image::screenshots/timetable.png[]
-
-== Web page
-
-https://ccmorenosa.github.io/U_Stair-WebPage/
-
-== Usage
-
-To see the usage, please refer to this
-link:https://ccmorenosa.github.io/U_Stair-WebPage/manual/[documentation page.]
