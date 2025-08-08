@@ -1,6 +1,6 @@
-image:https://github.com/ccmorenosa/U_Stair/workflows/Linux/badge.svg[]
-image:https://github.com/ccmorenosa/U_Stair/workflows/Windows/badge.svg[]
-image:https://github.com/ccmorenosa/U_Stair/workflows/Mac/badge.svg[]
+image:https://github.com/ritus2/U_Stair/workflows/Linux/badge.svg[]
+image:https://github.com/ritus2/U_Stair/workflows/Windows/badge.svg[]
+image:https://github.com/ritus2/U_Stair/workflows/Mac/badge.svg[]
 
 = U Stair
 
